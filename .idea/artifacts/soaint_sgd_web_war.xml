@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="soaint-sgd-web:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/soaint_sgd_web_war</output-path>
+    <root id="archive" name="soaint-sgd-web_war.war">
+      <element id="javaee-facet-resources" facet="soaint-sgd-web/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="soaint-sgd-web" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
